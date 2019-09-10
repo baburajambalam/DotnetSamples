@@ -1,0 +1,9 @@
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\bin\TestSQLSessionState.dll.config
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\bin\TestSQLSessionState.dll
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\bin\TestSQLSessionState.pdb
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\obj\x64\Debug\TestSQLSessionState.vbprojAssemblyReference.cache
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\obj\x64\Debug\TestSQLSessionState.Resources.resources
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\obj\x64\Debug\TestSQLSessionState.vbproj.GenerateResource.cache
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\obj\x64\Debug\TestSQLSessionState.vbproj.CoreCompileInputs.cache
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\obj\x64\Debug\TestSQLSessionState.dll
+C:\work-visual-studio\Repos\Tradelicense\TestSQLSessionState\obj\x64\Debug\TestSQLSessionState.pdb

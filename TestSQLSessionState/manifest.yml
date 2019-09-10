@@ -1,0 +1,11 @@
+applications:
+- name: TestSQLSessionState
+  buildpacks:
+    - hwc_buildpack
+  disk_quota: 1G
+  memory: 1G
+  HEALTH-CHECK-TIMEOUT: 180
+  stack: windows2012R2
+  command: run.bat
+  services: 
+  - environment-repo
